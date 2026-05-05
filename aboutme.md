@@ -4,14 +4,16 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Ryan Marohn, I am from the United States and I am passionate about using data to do good and help bring positive impact to human rights and healthcare. 
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Bachelors of Science in Chemical Engineering at University of Illinois Urbana Champaign (2011 - 2015)
+- Masters in Health Data Science at Universitat Rovira i Virgili (2025 - Present)
+
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Data Analyst / Consultant (2015 - 2020)
+- Nonprofit Founder and President (2017 - Present)
+- Data Analyst and Developer for Human Rights Organizations (2020 - 2025)
+- Senior Data Analyst / Vizualization Engineer for Medicaid (2021 - 2025)
