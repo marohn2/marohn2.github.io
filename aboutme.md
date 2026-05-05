@@ -15,5 +15,5 @@ My name is Ryan Marohn, I am from the United States and I am passionate about us
 ### Experience
 - Data Analyst / Consultant (2015 - 2020)
 - Nonprofit Founder and President (2017 - Present)
-- Data Analyst and Developer for Human Rights Organizations (2020 - 2025)
+- Data Analyst, Developer and Organizer for NGOs and Human Rights Organizations (2020 - 2025)
 - Senior Data Analyst / Vizualization Engineer for Medicaid (2021 - 2025)
