@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NarxCare- A Harmful Cloud Application in Biomedicine
-subtitle: When clinical prediction models go unchecked
+subtitle: When clinical decision support goes unchecked
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
