@@ -27,21 +27,19 @@ Here's a Map from Narxcare on PDMP Coverage of the US from their 2025 Impact Rep
 ![Map of Narxcare US Coverage](/images/Narxcoremap.png?raw=true)
 
 ## The Application
-You can add notification, warning and error boxes like this:
+Narxcare is a cloud application marketed as a clincal decision support tool. 
 
-### The Impact
+## The Impact
 
 The negative impact of Narxcare's scoring system has been felt by a variety of patients. Chronic pain patients or even patients who have sick pets (link) can be flagged and loose access to prescriptions and medical care. According to one study, 20 percent of the patients who are most likely to be flagged as doctor-shoppers actually have cancer, which often requires seeing multiple specialists.
 
-### The Road Ahead
+## The Road Ahead
+Narxcare has still not been approved by nor investigated by the FDA yet it is still being utilitzed today across the United States. It claims that it is not to be intended to be the sole tool that should be used to halt medicine / care to patients, yet it is often used as such. While many of the papers in this post date back to the early 2020s, the cloud application is still not regulated by the FDA and there are [still petitions being filed in 2026,](https://insights.citeline.com/medtech-insight/digital-technologies/fda-weighs-second-citizen-petition-on-bamboo-healths-narxcare-AHZVKQCQSBCFNM7DVKJQC4R32A/) pushing for it regulation.
 
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### The References
-
-{: .box-error}
-**Error:** This is an error box.
+## The References
+  - Buonora, Michele J., et al. “Paths forward for clinicians amidst the rise of unregulated clinical decision support software: Our perspective on NarxCare.” Journal of General Internal Medicine, vol. 39, no. 5, 14 Nov. 2023, pp. 858–862, https://doi.org/10.1007/s11606-023-08528-2. 
+  -McCarty, Mark. “FDA Weighs Second Citizen Petition on Bamboo Health’s NarxCare.” Insights, Insights, 11 Mar. 2026, insights.citeline.com/medtech-insight/digital-technologies/fda-weighs-second-citizen-petition-on-bamboo-healths-narxcare-AHZVKQCQSBCFNM7DVKJQC4R32A/. 
+  -Szalavitz, Maia. “The Pain Was Unbearable. so Why Did Doctors Turn Her Away?” Wired, Conde Nast, 11 Aug. 2021, www.wired.com/story/opioid-drug-addiction-algorithm-chronic-pain/. 
 
 ## Local URLs in project sites {#local-urls}
 
