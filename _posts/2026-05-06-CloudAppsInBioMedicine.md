@@ -20,7 +20,7 @@ Note: This blog post does not speak highly of a particular cloud application in 
 The United States has the highest overdose and drug related death rate in the world by a significant margin. The US overdose epidemic is a complex issue for which many mistakes have been made due to oversimplification. Complex issues can have seemingly viable solutions for which tech companies are often happy to quickly provide / roll out solutions for in the form of cloud-based applications. One noteworthy example of a seemingly viable solution is Bamboo Health’s Narxcare – a prescription drug monitoring program-based analytics platform marketed as a clinic al support tool. 
 
 Narxcare belongs to a class of monitoring and surveillance programs called prescription drug monitoring programs or PDMPs
-[which have been the subject of much public scrutiny.](https://journals.lww.com/journaladdictionmedicine/abstract/2022/05000/_nobody_knows_how_you_re_supposed_to_interpret.26.aspx).
+[which have been the subject of much public scrutiny by numerous clinicians](https://journals.lww.com/journaladdictionmedicine/abstract/2022/05000/_nobody_knows_how_you_re_supposed_to_interpret.26.aspx). Narxcore claims to  impact over one billion patient encounters annually across the US and has been used across 45 states in the US while its platform still lacks sufficient evidence for its wide clinical implementation. 
 
 Here's a table:
 
