@@ -39,7 +39,7 @@ The negative impact of Narxcare's scoring system has been felt by a variety of p
 
 The impact of high Narx scores and the potential events that follow neing denied medicine or care due to a high score can have a spiraling affect on a patients health and life. An elevated score could lead to reduction / termination of medicine / care which would then in turn could affect pain severity, health and employment. On top of that, seeing multiple physicians elevates the risk score, so a patient with a score too high for one physician might seek others which would then continue to elevate the score until little to no options are available. Besides the potential spiraling, potential opioid taper or patient abandonment are associated with an increased risk for overdose which might help verify the risk score, but does nothing to help the clinician or the health of the patient, thus continuing the cycle of the epidemic. 
 
-[US Opioid Epidemic](/images/opioidcartoon.png?raw=true)
+![US Opioid Epidemic](/images/opioidcartoon.png?raw=true)
 Figure 3: A political cartoon depicting the US Opioid Epidemic.
 
 ## The Road Ahead
