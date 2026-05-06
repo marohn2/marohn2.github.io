@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cloud Application in Biomedicine
-subtitle: There's lots to learn!
+title: NarxCare- A Harmful Cloud Application in Biomedicine
+subtitle: When clinical prediction models go unchecked
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
