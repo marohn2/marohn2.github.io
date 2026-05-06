@@ -24,7 +24,7 @@ Narxcare belongs to a class of monitoring and surveillance programs called presc
 
 Here's a Map from Narxcare on PDMP Coverage of the US from their 2025 Impact Report: 
 
-![Map of Narxcore US Coverage]("/images/Narxcoremap.png)
+![Map of Narxcore US Coverage](/images/Narxcoremap.png?raw=true)
 
 It can also be centered!
 
