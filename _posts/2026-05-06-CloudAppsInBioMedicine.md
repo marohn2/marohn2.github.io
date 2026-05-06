@@ -13,7 +13,7 @@ author: Bill Smith
 {: .box-success}
 Note: This blog post does not speak highly of a particular cloud application in Biomedicine. 
 
-**Here is some bold text**
+**If we don't critique harmful applications in biomedicine, how can we say we are promoting health?**
 
 ## Here is a secondary heading
 
