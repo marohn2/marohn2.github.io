@@ -15,9 +15,9 @@ Note: This blog post does not speak highly of a particular cloud application in 
 
 **If we don't critique harmful applications in biomedicine, how can we say we are promoting health?**
 
-## Here is a secondary heading
+## A BIG problem doesn't have an easy solution
 
-The United States overdose epidemic is a complex issue for which many mistakes have been made due to oversimplification. Complex issues can have seemingly viable solutions for which tech companies are often happy to quickly provide / roll out in the form of cloud-based applications. One example of a seemingly viable solution is Bamboo Health’s Narxcare – a prescription drug monitoring program-based analytics platform marketed as a clinic al support tool. This tool belongs to a class of monitoring and surveillance programs called prescription drug monitoring programs or PDMP. 
+The United States has the highest overdose and drug related death rate in the world by a significant margin. The US overdose epidemic is a complex issue for which many mistakes have been made due to oversimplification. Complex issues can have seemingly viable solutions for which tech companies are often happy to quickly provide / roll out in the form of cloud-based applications. One example of a seemingly viable solution is Bamboo Health’s Narxcare – a prescription drug monitoring program-based analytics platform marketed as a clinic al support tool. This tool belongs to a class of monitoring and surveillance programs called prescription drug monitoring programs or PDMP. 
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
