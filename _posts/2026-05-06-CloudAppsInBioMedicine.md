@@ -17,6 +17,8 @@ Note: This blog post does not speak highly of a particular cloud application in 
 
 ## Here is a secondary heading
 
+The United States overdose epidemic is a complex issue for which many mistakes have been made due to oversimplification. Complex issues can have seemingly viable solutions for which tech companies are often happy to quickly provide / roll out in the form of cloud-based applications. One example of a seemingly viable solution is Bamboo Health’s Narxcare – a prescription drug monitoring program-based analytics platform marketed as a clinic al support tool. This tool belongs to a class of monitoring and surveillance programs called prescription drug monitoring programs or PDMP. 
+
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
 Here's a table:
@@ -28,8 +30,6 @@ Here's a table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-The United States overdose epidemic is a complex issue for which many mistakes have been made due to oversimplification. Complex issues can have seemingly viable solutions for which tech companies are often happy to quickly provide / roll out in the form of cloud-based applications. One example of a seemingly viable solution is Bamboo Health’s Narxcare – a prescription drug monitoring program-based analytics platform marketed as a clinic al support tool. This tool belongs to a class of monitoring and surveillance programs called prescription drug monitoring programs or PDMP. 
-How about a yummy crepe?
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
