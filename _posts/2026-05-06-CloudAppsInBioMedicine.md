@@ -4,7 +4,7 @@ title: NarxCare- A Harmful Cloud Application in Biomedicine
 subtitle: When clinical decision support goes unchecked
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [biomedicine] [cloud applications] [human rights] 
 comments: true
 mathjax: true
 author: Bill Smith
