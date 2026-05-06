@@ -22,17 +22,9 @@ The United States has the highest overdose and drug related death rate in the wo
 Narxcare belongs to a class of monitoring and surveillance programs called prescription drug monitoring programs or PDMPs
 [which have been the subject of much public scrutiny by numerous clinicians](https://journals.lww.com/journaladdictionmedicine/abstract/2022/05000/_nobody_knows_how_you_re_supposed_to_interpret.26.aspx). Narxcore claims to  impact over one billion patient encounters annually across the US and has been used across 45 states in the US while its platform still lacks sufficient evidence for its wide clinical implementation. 
 
-Here's a table:
+Here's a Map from Narxcare on PDMP Coverage of the US from their 2025 Impact Report: 
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Map of Narxcore US Coverage]("/images/Narxcoremap.png)
 
 It can also be centered!
 
